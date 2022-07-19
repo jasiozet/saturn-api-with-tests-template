@@ -20,6 +20,7 @@ Other options:
 * [Saturn](https://saturnframework.org/)
 
 Saturn is built on top of [Giraffe](https://giraffe.wiki/)
+Take a look at almost identical [template](https://github.com/jasiozet/giraffe-api-with-tests-template) for Giraffe to compare the differences
 
 ## Stuff inside TESTS
 * [xUnit](https://xunit.net/)
@@ -41,3 +42,9 @@ This template is meant a nice fresh start for them, without much complication
 
 ## TODO:
 * Controller example
+
+## Explore the basic api:
+* http://localhost:5000/add/2/3 => 5
+* http://localhost:5000/mul/2/3 => 6
+* http://localhost:5000/json => {"language":"F#","message":"Hello World"}
+* http://localhost:5000/anyRoute => htmled I |> F# Hello World
