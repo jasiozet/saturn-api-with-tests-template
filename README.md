@@ -20,7 +20,9 @@ Other options:
 * [Saturn](https://saturnframework.org/)
 
 Saturn is built on top of [Giraffe](https://giraffe.wiki/)
-Take a look at almost identical [template](https://github.com/jasiozet/giraffe-api-with-tests-template) for Giraffe to compare the differences
+Take a look at these templates to compare the difference with other frameworks:
+* [Giraffe](https://github.com/jasiozet/giraffe-api-with-tests-template)
+* [Falco](https://github.com/jasiozet/falco-api-with-tests-template)
 
 ## Stuff inside TESTS
 * [xUnit](https://xunit.net/)
